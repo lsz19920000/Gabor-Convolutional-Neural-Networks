@@ -1,8 +1,6 @@
 # Gabor-Convolutional-Neural-Networks
  
-#A demo for GCN on MNIST dataset using torch7.
-
-To run this demo, you should  install these dependencies:
+#A demo for GCN on MNIST dataset using torch7. To run this demo, you should  install these dependencies:
 
 `luarocks install torchnet`
 
