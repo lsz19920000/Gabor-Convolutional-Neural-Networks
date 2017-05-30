@@ -2,7 +2,9 @@
  
 #A demo for GCN on MNIST dataset using torch7
 To run this demo, you should  install these dependencies:
+
 `luarocks install torchnet`
+
 `luarocks install optnet`
 
 #install GCN:
@@ -22,11 +24,13 @@ This demo is partially referenced to the code of Orientation Response Networks(O
 If you use this demo please cite our paper and ORN. 
 bibtex:
 
+
 @article{Luan2017GCN,
   title={Gabor Convolutional Networks},
   author={Luan, Shangzhen and Zhang, Baochang and  Chen, Chen and Cao, Xianbin and Han, Jungong and Liu, Jianzhuang},
   year={2017},
 }
+
 
 @INPROCEEDINGS{Zhou2017ORN,
   title={Oriented Response Networks},
