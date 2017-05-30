@@ -28,7 +28,6 @@ bibtex:
 
 @article{Luan2017GCN,
   title={Gabor Convolutional Networks},
-  author={Luan, Shangzhen and Zhang, Baochang and  Chen, Chen and Cao, Xianbin and Han, Jungong and Liu, Jianzhuang},
   year={2017},
 }
 
