@@ -26,7 +26,7 @@ If you use this demo please cite our paper and ORN.
 
 bibtex:
 
-@article{Luan2017GCN,
+@article{GCN,
   title={Gabor Convolutional Networks},
   year={2017},
 }
