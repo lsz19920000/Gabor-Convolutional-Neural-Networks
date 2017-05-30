@@ -20,10 +20,11 @@ bash ./scripts/Train_MNIST.sh
 ```
 
 #Acknowledgement
+```
 This demo is partially referenced to the code of Orientation Response Networks(ORN,`http://zhouyanzhao.github.io/ORN/`)
 If you use this demo please cite our paper and ORN. 
-bibtex:
 
+bibtex:
 
 @article{Luan2017GCN,
   title={Gabor Convolutional Networks},
@@ -38,4 +39,5 @@ bibtex:
   booktitle = {CVPR}
   year={2017},
 }
+```
 
